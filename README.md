@@ -38,16 +38,9 @@
 
 ---
 
-## 📊 GitHub Activity
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=lance-enario&show_icons=true&theme=tokyonight" alt="Lance's GitHub Stats" />
-</p>
-
----
-
 ## 📫 Connect with me:
 - **LinkedIn**: [linkedin.com/in/lance-enario/](https://www.linkedin.com/in/lance-enario/)
-- **Email**: [Your Email Here]
+- **Email**: [lancejoseph.enario@gmail.com]
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=lance-enario&color=blueviolet" alt="Profile Views" />
