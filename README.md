@@ -3,13 +3,9 @@
 # Hi there, I'm Lance! 👋
 ### Aspiring Software Developer | Computer Science Student @ CIT-U
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</p>
-
 ---
 
-"Turning logic into functional art, one line of code at a time."
+"Merging interests with software solutions ^-^"
 
 </div>
 
@@ -40,7 +36,7 @@
 
 ## 📫 Connect with me:
 - **LinkedIn**: [linkedin.com/in/lance-enario/](https://www.linkedin.com/in/lance-enario/)
-- **Email**: [lancejoseph.enario@gmail.com]
+- **Email**: lancejoseph.enario@gmail.com
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=lance-enario&color=blueviolet" alt="Profile Views" />
